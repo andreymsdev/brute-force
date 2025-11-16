@@ -56,4 +56,3 @@ TryHackMe Challenge: https://tryhackme.com/room/lookup
 ![naruto da imagem](./images/naruto.png)
 
 ---
-# brute-force
