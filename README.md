@@ -45,7 +45,7 @@ pip install requests
 * Set the `url` variable to the target login endpoint.
 * Ensure the `file_path` points to a valid username list.
 
-* Run the script
+* Run the script.
 
 ---
 
